@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Ashutosh
 
-<!--
-**Ashu8083/Ashu8083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer passionate about building scalable applications and solving real-world problems through technology.
 
-Here are some ideas to get you started:
+## About Me
+-  Backend Developer working with FastAPI and Spring Boot
+-  Interested in Android Development
+-  Exploring Machine Learning and LLM-powered applications
+-  Experienced with Authentication, API Security, and Redis
+-  Learning Cloud Technologies and System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Python, Java, Kotlin
+- Backend: FastAPI, Spring Boot, REST APIs
+- Mobile: Android, Jetpack Compose
+- Database: MySQL, PostgreSQL, Redis
+- Tools: Docker, Git, Firebase
+- AI/ML: Machine Learning, Ollama, LLM Integration
+
+## Currently Learning
+- Microservices Architecture
+- Cloud Technologies
+- Advanced System Design
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/asutosh-gouda
+- Email: asutosh.gouda22@gmail.com
