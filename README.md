@@ -10,7 +10,7 @@ Backend Developer passionate about building scalable applications and solving re
 -  Learning Cloud Technologies and System Design
 
 ## Tech Stack
-- Languages: Python, Java, Kotlin
+- Languages: Java , Python , Kotlin
 - Backend: FastAPI, Spring Boot, REST APIs
 - Mobile: Android, Jetpack Compose
 - Database: MySQL, PostgreSQL, Redis
