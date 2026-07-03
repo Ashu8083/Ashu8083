@@ -11,7 +11,8 @@ Backend Developer passionate about building scalable applications and solving re
 
 ## Tech Stack
 - Languages: Java , Python , Kotlin
-- Backend: FastAPI, Spring Boot, REST APIs
+- Backend:
+- FastAPI,Spring Boot, REST APIs
 - Mobile: Android, Jetpack Compose
 - Database: MySQL, PostgreSQL, Redis
 - Tools: Docker, Git, Firebase
@@ -21,6 +22,7 @@ Backend Developer passionate about building scalable applications and solving re
 - Microservices Architecture
 - Cloud Technologies
 - Advanced System Design
+- Devops
 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/asutosh-gouda
