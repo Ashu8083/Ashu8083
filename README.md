@@ -6,7 +6,7 @@ Backend Developer passionate about building scalable applications and solving re
 -  Backend Developer working with FastAPI and Spring Boot
 -  Interested in Android Development
 -  Exploring Machine Learning and LLM-powered applications
--  Experienced with Authentication, API Security, and Redis
+-  Experienced with Authentication, API Security,RBAC system and Redis
 -  Learning Cloud Technologies and System Design
 
 ## Tech Stack
