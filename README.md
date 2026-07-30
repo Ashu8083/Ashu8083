@@ -10,22 +10,9 @@ Backend Developer | Spring Boot | Java | FastAPI | PostgreSQL
 <img src="https://komarev.com/ghpvc/?username=Ashu8083&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<marquee scrollamount="7" behavior="scroll" direction="left">
-
-🔥 <b>BACKEND DEVELOPER</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-☕ <b>JAVA</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-🍃 <b>SPRING BOOT</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-⚡ <b>FASTAPI</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-🐘 <b>POSTGRESQL</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-🚀 <b>MICROSERVICES</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-🐳 <b>DOCKER</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-⚙️ <b>CI/CD</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-📡 <b>REST APIs</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-🔴 <b>REDIS</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-📨 <b>KAFKA</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-💡 <b>OPEN SOURCE</b>
-
-</marquee>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=🚀+Backend+Developer;☕+Java+%7C+🍃+Spring+Boot;⚡+FastAPI+%7C+🐘+PostgreSQL;🔴+Redis+%7C+📨+Kafka;🐳+Docker+%7C+⚙️+CI%2FCD;📡+REST+APIs+%7C+🚀+Microservices" />
+</p>
 
 
 
