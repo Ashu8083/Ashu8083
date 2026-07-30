@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ashu8083/Ashu8083/main/assets/ashu.gif" width="1200">
+</p>
+
 <h1 align="center">
 Hi 👋, I'm Ashutosh Gouda
 </h1>
