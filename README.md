@@ -58,55 +58,5 @@ Backend Developer | Spring Boot | Java | FastAPI | PostgreSQL
 </tr>
 </table>
 <h2 align="center">💻 Tech Stack</h2>
-
-<table align="center">
-<tr>
-
-<td valign="top" width="50%">
-
-### 🖥️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,kafka" />
-</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-### 🌐 Frontend & Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=react,kotlin,android,firebase" />
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-</p>
-
-</td>
-
-<td valign="top">
-
-### ⚙️ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,aws,nginx,postman" />
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-
-## Connect With Me
-- LinkedIn: www.linkedin.com/in/asutosh-gouda
-- Email: asutosh.gouda22@gmail.com
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
