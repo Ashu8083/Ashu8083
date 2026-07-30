@@ -1,12 +1,49 @@
-# Hi there 👋, I'm Ashutosh
+<h1 align="center">
+Hi 👋, I'm Ashutosh Gouda
+</h1>
 
-Backend Developer passionate about building scalable applications and solving real-world problems through technology.
+<h3 align="center">
+Backend Developer | Spring Boot | Java | FastAPI | PostgreSQL
+</h3>
 
-- 🔭 I’m currently working on **DashMate(clone project of portor)**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ashu8083&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-- 🌱 I’m currently learning **Devops, AWS ,react framework**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+Developer;FastAPI+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
+</p>
+## 🚀 About Me
 
-- 📫 How to reach me **asutosh.gouda22@gmail.com**
+🔭 Working on **DashMate**
+
+🌱 Learning **AWS, DevOps, React**
+
+💬 Ask me about **Spring Boot, Java, FastAPI**
+
+📫 Email:
+asutosh.gouda22@gmail.com
+
+<h2>🌐 Connect with Me</h2>
+
+<p align="left">
+
+<a href="https://linkedin.com/in/asutosh-gouda">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/asutosh_gouda_711">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://www.leetcode.com/asutosh_83">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+⚡ Fun Fact:
+I enjoy solving backend architecture problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +55,13 @@ Backend Developer passionate about building scalable applications and solving re
 </p>
 
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h2>💻 Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,kotlin,android,docker,git,github,firebase,postgres,mysql,redis,kafka,nginx,postman,aws,react"/>
+
+</p>
 
 
 ## Connect With Me
