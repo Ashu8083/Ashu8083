@@ -2,15 +2,6 @@
 
 Backend Developer passionate about building scalable applications and solving real-world problems through technology.
 
-## About Me
--  Backend Developer working with FastAPI and Spring Boot
--  Interested in Android Development
--  Exploring Machine Learning and LLM-powered applications
--  Experienced with Authentication, API Security,RBAC system Redis and more 
--  Learning Cloud Technologies and System Design
-<h1 align="center">Hi 👋, I'm Asutosh Gouda</h1>
-<h3 align="center">Backend Developer passionate about building scalable applications and solving real-world problems through technology.</h3>
-
 - 🔭 I’m currently working on **DashMate(clone project of portor)**
 
 - 🌱 I’m currently learning **Devops, AWS ,react framework**
