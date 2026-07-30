@@ -13,7 +13,9 @@ Backend Developer | Spring Boot | Java | FastAPI | PostgreSQL
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+Developer;FastAPI+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
-## 🚀 About Me
+
+<p align="right">
+🚀 About Me
 
 🔭 Working on **DashMate**
 
@@ -24,7 +26,13 @@ Backend Developer | Spring Boot | Java | FastAPI | PostgreSQL
 📫 Email:
 asutosh.gouda22@gmail.com
 
+⚡ Fun Fact:
+I enjoy solving backend architecture problems.
+
+</p>
+
 <h2>🌐 Connect with Me</h2>
+
 
 <p align="left">
 
@@ -42,8 +50,7 @@ asutosh.gouda22@gmail.com
 
 </p>
 
-⚡ Fun Fact:
-I enjoy solving backend architecture problems.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
