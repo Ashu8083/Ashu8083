@@ -1,5 +1,5 @@
 <p align="center">
- <img src="assets/ashu.gif" width="800">
+ <img src="assets/banner.png" width="1200">
 </p>
 
 <h1 align="center">
