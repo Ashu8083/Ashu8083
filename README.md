@@ -59,49 +59,102 @@ Features
 - Authentication
 - RBAC
 
+##Tech Stack
+
+ ## Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" width="55" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="55" />
+</p>
+
+ 
+ 
 
 
 ### 🌐 Contact Me
+Contact
 
-
+<p align="center">
 <a href="https://www.linkedin.com/in/asutosh-gouda">
-  <img src="https://img.shields.io/badge/LinkedIn-161616?style=flat-square&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=white"
+    height="42"
+    style="border: 1px solid #6e6e73; border-radius: 8px;"
+  />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/asutosh_83/">
-  <img src="https://img.shields.io/badge/LeetCode-161616?style=flat-square&logo=leetcode&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LeetCode-161616?style=for-the-badge&logo=leetcode&logoColor=white"
+    height="42"
+    style="border: 1px solid #d2d2d7; border-radius: 8px;"
+  />
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:asutosh.gouda22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161616?style=flat-square&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Email-161616?style=for-the-badge&logo=gmail&logoColor=white"
+    height="42"
+    style="border: 1px solid #6e6e73; border-radius: 8px;"
+  />
 </a>
+</p>
 
 
+## GitHub
 
-# 📊 GitHub Stats:
+<!-- Profile Overview -->
+<p align="center">
+<img
+    src="https://streak-stats.demolab.com/?user=Ashu8083&theme=transparent&hide_border=true"
+    width="70%"
+  />
+  
+</p>
+ 
 
+<br>
 
-<table>
+<!-- GitHub Analytics -->
+<table align="center">
   <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Ashu8083&theme=dark&hide_border=false" />
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashu8083&theme=github_dark&utcOffset=5.5"
+        width="100%"
+      />
     </td>
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ashu8083&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashu8083&theme=github_dark"
+        width="100%"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashu8083&theme=github_dark"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashu8083&theme=github-dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashu8083&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-# 💻 Tech Stack:
-
-## Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,kafka,docker,aws,git,github&perline=6" />
-</p>
-![Snake animation](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg)
