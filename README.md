@@ -64,52 +64,17 @@ Features
 ### 🌐 Contact Me
 
 
-<table>
-    <tr>
-    <td width="35" align="center">
-    <a href="https://www.linkedin.com/in/asutosh-gouda">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="22">
-      </a>
-    </td>
-    <td>
-      <b>LinkedIn:</b>
-      <a href="https://www.linkedin.com/in/asutosh-gouda">linkedin.com/in/asutosh-gouda</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="35" align="center">
-      <a href="https://instagram.com/asutosh_gouda_711">
-        <img src="https://skillicons.dev/icons?i=instagram" width="22">
-      </a>
-    </td>
-    <td>
-      <b>Instagram:</b>
-      <a href="https://instagram.com/asutosh_gouda_711">@asutosh_gouda_711</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="35" align="center">
-      <a href="https://leetcode.com/u/asutosh_83/">
-        <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22">
-      </a>
-    </td>
-    <td>
-      <b>LeetCode:</b>
-      <a href="https://leetcode.com/u/asutosh_83/">asutosh_83</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="35" align="center">
-      <a href="mailto:asutosh.gouda22@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="22">
-      </a>
-    </td>
-  <td>
-      <b>Email:</b>
-      <a href="mailto:asutosh.gouda22@gmail.com">asutosh.gouda22@gmail.com</a>
-  </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/asutosh-gouda">
+  <img src="https://img.shields.io/badge/LinkedIn-161616?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/asutosh_83/">
+  <img src="https://img.shields.io/badge/LeetCode-161616?style=flat-square&logo=leetcode&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:asutosh.gouda22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-161616?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 
 
