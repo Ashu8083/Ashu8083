@@ -99,21 +99,9 @@ Features
 
 # 💻 Tech Stack:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right:8px; margin-bottom:8px;" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right:8px; margin-bottom:8px;" />
-</p>
+## Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,kafka,docker,aws,git,github&perline=6" />
+</p>
 ![Snake animation](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg)
