@@ -68,6 +68,8 @@ Features
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=spring" width="55" />
   &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=kotlin" width="55" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" width="55" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=fastapi" width="55" />
